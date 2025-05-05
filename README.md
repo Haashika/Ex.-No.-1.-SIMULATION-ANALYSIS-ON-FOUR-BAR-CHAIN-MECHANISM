@@ -53,10 +53,11 @@
 
 
 ## Output:
+![image](https://github.com/user-attachments/assets/d54203fa-e4d8-490a-9d71-c3ce566d908c)
 
 
-### Name:
-### Register Number: 
+### Name: HAASHIKA SINOU S
+### Register Number: 212224110018
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
